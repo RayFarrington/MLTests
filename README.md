@@ -8,7 +8,7 @@ Collection of machine learning projects and Jupyter notebooks created for course
 - Notebooks/MLPvsCNN.ipynb : Direct comparison of MLP and CNN model architectures on the same preprocessed dataset to study whether convolutional layers improve performance.
 
 ## Data
-- data is from this data set: https://www.kaggle.com/code/atulkumar011/ddos-attack-detection-classification-a03d6b
+- data is from this data set: https://www.kaggle.com/code/atulkumar011/ddos-attack-detection-classification-a03d6b/input
 
 ## Reproducing results & notes
 - The notebooks read the CSV directly from the repo's data/ directory (raw GitHub link). If you want to work offline, download data/DDOS_Data.csv and update the notebook path.
